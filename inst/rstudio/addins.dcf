@@ -1,0 +1,9 @@
+Name: ViewerWindow
+Description: Open Next Viewer in Window
+Binding: viewerWindow
+Interactive: false
+
+Name: ViewerPane
+Description: Open Next Viewer in Pane
+Binding: viewerPane
+Interactive: false
